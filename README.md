@@ -46,16 +46,17 @@ The dataset includes information such as:
 (images/overall dashboard.png)
 
 ### 🔹 Equity analysis
-![Gender Chart](images/equity analysis.png)
+
+![Gender Chart](images/equity_analysis.png)
 
 ### 🔹FD analysis  
-![Objective Chart](images/FD analysis.png)
+![Objective Chart](images/FD_analysis.png)
 
 ### 🔹Mutual Fund analysis  
-![Duration Chart](images/Mutual Fund analysis.png)
+![Duration Chart](images/Mutual_Fund_analysis.png)
 
 ### 🔹PPF analysis  
-![Duration Chart](images/PPF analysis.png)
+![Duration Chart](images/PPF_analysis.png)
 
 ---
 
