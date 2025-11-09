@@ -1,4 +1,4 @@
-# 📊 Investment Analysis Dashboard
+# 📊 InvestSmart-PowerBI
 
 An interactive Power BI dashboard that analyzes investment behaviors and preferences using Excel data. This project uncovers trends based on gender, savings objectives, investment duration, and monitoring frequency, offering insights to help understand how different factors influence financial decision-making.
 
