@@ -43,7 +43,7 @@ The dataset includes information such as:
 > ✨ Replace the placeholder below with actual images once you take screenshots from Power BI.
 
 ### 🔹 Overall Dashboard  
-!(images/overall_dashboard.png)
+![od](images/overall_dashboard.png)
 
 ### 🔹 Equity analysis
 
@@ -53,7 +53,7 @@ The dataset includes information such as:
 ![Objective Chart](images/FD_analysis.png)
 
 ### 🔹Mutual Fund analysis  
-![Duration Chart](images/Mutual_Fund_analysis.png)
+![Duration Chart](images/MutualFundanalysis.png)
 
 ### 🔹PPF analysis  
 ![Duration Chart](images/PPF_analysis.png)
