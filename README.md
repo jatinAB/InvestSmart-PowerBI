@@ -53,7 +53,7 @@ The dataset includes information such as:
 ![Objective Chart](images/FD_analysis.png)
 
 ### 🔹Mutual Fund analysis  
-![Duration Chart](images/MutualFundanalysis.png)
+![Duration Chart](images/Mutual_Fund_analysis.png)
 
 ### 🔹PPF analysis  
 ![Duration Chart](images/PPF_analysis.png)
@@ -80,5 +80,3 @@ The dataset includes information such as:
 ## 📚 About This Project
 
 This project was created to demonstrate data visualization, storytelling, and analytical skills using Power BI. It is suitable for showcasing business intelligence capabilities in resumes, portfolios, or interview presentations.
-
----
