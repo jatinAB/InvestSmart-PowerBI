@@ -40,20 +40,18 @@ The dataset includes information such as:
 
 ## 📸 Dashboard Screenshots
 
-> ✨ Replace the placeholder below with actual images once you take screenshots from Power BI.
-
 ### 🔹 Overall Dashboard  
 ![od](images/overall_dashboard.png)
 
 ### 🔹 Equity analysis
 
-![Gender Chart](equity_analysis.png)
+![Gender Chart](images/equity_analysis.png)
 
 ### 🔹FD analysis  
 ![Objective Chart](images/FD_analysis.png)
 
 ### 🔹Mutual Fund analysis  
-![Duration Chart](images/Mutual_Fund_analysis.png)
+![Duration Chart](images/Mutual_Fund_Analysis.png)
 
 ### 🔹PPF analysis  
 ![Duration Chart](images/PPF_analysis.png)
